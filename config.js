@@ -1,6 +1,6 @@
 /* Copyright (C) 2020 Yusuf Usta.
 re edited by afnan-plk  
-PINKY V2 
+𝙼𝚒𝚗𝚗𝚞 𝚖𝚘𝚕𝚎🦋
 */
 
 const { Sequelize } = require('sequelize');
@@ -34,7 +34,7 @@ module.exports = {
     ADDMSG: process.env.ADD_MESSAGE === undefined ? 'default' : process.env.ADD_MESSAGE,
     THERI_BLOCK: process.env.THERI_BLOCK === undefined ? false : process.env.THERI_BLOCK,
     MUTEMSG: process.env.MUTE_MESSAGE === undefined ? 'default' : process.env.MUTE_MESSAGE,
-    BOTPLK: process.env.BOT_NAME === undefined ? 'ZARA MWOL' : process.env.BOT_NAME,
+    BOTPLK: process.env.BOT_NAME === undefined ? '𝙼𝚒𝚗𝚗𝚞 𝚖𝚘𝚕𝚎🦋' : process.env.BOT_NAME,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGD,
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ...' : process.env.SONGU,
     NOLOG: process.env.NO_LOG === undefined ? 'false' : process.env.NO_LOG,
@@ -56,7 +56,7 @@ module.exports = {
     DEMOTEMSG: process.env.DEMOTE_MESSAGE === undefined ? 'default' : process.env.DEMOTE_MESSAGE,
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
-    TAGPLK: process.env.TAG_HEADER === undefined ? 'zara' : process.env.TAG_HEADER,
+    TAGPLK: process.env.TAG_HEADER === undefined ? '𝙼𝚒𝚗𝚗𝚞 𝚖𝚘𝚕𝚎🦋' : process.env.TAG_HEADER,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     MAHN: process.env.MAAN === undefined ? '919072790587,0' : process.env.MAAN,
