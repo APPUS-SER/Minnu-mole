@@ -6,7 +6,7 @@ src="20211129_125536.jpg" alt="jpg" width="220" height="190"/>
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/APPUS-SER">APPUS-SER</a>
+ ʙʏ <a href="https://github.com/APPUS-SER">APPUS-SER</a>
     <br>
        | © |
         Reserved 
@@ -65,7 +65,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![APPUS-SER](https://github.com/Raashii.png?size=100)](https://github.com/APPUS-SER) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) 
+  [![APPUS-SER](https://github.com/APPUS-SER.png?size=100)](https://github.com/APPUS-SER) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) 
 ----|----|----
 [APPUS-SER](https://github.com/APPUS-SER)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
