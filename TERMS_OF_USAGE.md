@@ -1,4 +1,4 @@
-# **PINKY V2** TERMS OF USAGE
+# **𝙼𝚒𝚗𝚗𝚞 𝚖𝚘𝚕𝚎🦋** TERMS OF USAGE
 
 Last Updated: **GMT-3 22/03/2021**
 
