@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
-ZARA VERSION 2
+𝙼𝚒𝚗𝚗𝚞 𝚖𝚘𝚕𝚎🦋
 */
 
 // Komutları burada tutacağız.
