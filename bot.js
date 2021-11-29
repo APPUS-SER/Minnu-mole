@@ -281,7 +281,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                 if (config.FULLEVA == 'true') {
                     await conn.sendMessage(conn.user.jid, EVA_ACTİON, MessageType.text)
                 } else {
-                   await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/logo.jpg"), MessageType.image, { caption: `* Made by 𝙼𝚒𝚗𝚗𝚞 𝚖𝚘𝚕𝚎 * \n\n*⚠ #ownercmnd ғᴏʀ ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅs* \n\n*Thank You For Using Minnu-mole🦋 ❤‍🩹*`});
+                   await conn.sendMessage(conn.user.jid, fs.readFileSync("./image/logo.jpg"), MessageType.image, { caption: `* Made by 𝙼𝚒𝚗𝚗𝚞 𝚖𝚘𝚕𝚎🦋 * \n\n*⚠ #ownercmnd ғᴏʀ ᴏᴡɴᴇʀ ᴄᴏᴍᴍᴀɴᴅs* \n\n*Thank You For Using Minnu-mole🦋 ❤‍🩹*`});
                }               
                 await git.fetch();
                 var commits = await git.log([config.BRANCH + '..origin/' + config.BRANCH]);
