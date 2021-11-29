@@ -1,7 +1,7 @@
 <div align="center">
 </p>
         <img 
-src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14815980.gif" alt="GIF" width="220" height="190"/>
+src="20211129_125536.jpg" alt="jpg" width="220" height="190"/>
 </p>
 
 </div>
